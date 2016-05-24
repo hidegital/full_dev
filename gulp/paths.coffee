@@ -1,0 +1,9 @@
+module.exports =
+	distJs: './dist/js'
+	buildJs: './build/js'
+	stylusPath: './src/stylus'
+	distCss: './dist/css'
+	buildCss: './build/css'
+	srcImg: './src/img'
+	buildImg: './build/img'
+	DEST: './dist'
